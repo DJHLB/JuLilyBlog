@@ -160,6 +160,7 @@ $ mount /dev/mapper/cryptdev /mnt
 创建子卷：
 
 ```bash
+$ btrfs subvolume create /mnt/@
 $ btrfs subvolume create /mnt/@home
 $ btrfs subvolume create /mnt/@snapshots
 $ btrfs subvolume create /mnt/@cache
@@ -628,4 +629,4 @@ $ sudo btrfs subvolume snapshot /mnt/@snapshots/number/snapshot /mnt/@	#number�
 
 [A(rch) to Z(ram): Install Arch Linux with (almost) full disk encryption and BTRFS](https://www.dwarmstrong.org/archlinux-install/)
 
-[[Arch Linux 安装使用教程 - ArchTutorial - Arch Linux Studio](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/?id=arch-linux-安装使用教程-archtutorial-arch-linux-studio)](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/)
+[Arch Linux 安装使用教程 - ArchTutorial - Arch Linux Studio](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/)
