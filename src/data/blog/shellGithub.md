@@ -13,7 +13,7 @@ description:
 ---
 ## 下载指定的打包文件
 
-```
+```bash
 releases_url=https://api.github.com/repos/open-tdp/tdp-cloud/releases/latest
 tag_name=`wget -qO- $releases_url | grep tag_name | cut -f4 -d "\""`
 
@@ -22,7 +22,7 @@ wget https://github.com/open-tdp/tdp-cloud/releases/download/${tag_name}/tdp-clo
 
 ## 批量下载所有打包文件
 
-```
+```bash
 releases_url=https://api.github.com/repos/open-tdp/tdp-cloud/releases/latest
 url_list=`wget -qO- $releases_url | grep releases/download | cut -f4 -d "\""`
 
