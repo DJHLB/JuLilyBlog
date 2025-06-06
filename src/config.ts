@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://github.com/DJHLB/",
   desc: "My Blog with Astro.",
   title: "DJHLB's Blog",
-  // ogImage: "astropaper-og.jpg",
+  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
