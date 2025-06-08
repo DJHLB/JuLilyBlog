@@ -1,7 +1,7 @@
 ---
 auther: DJLHB
-pubDatetime: 2024-01-22T17:55:44Z
-modDatetime: 2024-01-22T17:55:44Z
+pubDatetime: 2024-01-22T17:55:44+08:00
+modDatetime: 2024-01-22T17:55:44+08:00
 title: 获取Github开源项目最新版本下载地址
 slug: Github-releasefile-download
 featured: false

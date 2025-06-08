@@ -1,7 +1,7 @@
 ---
 auther: DJLHB
-pubDatetime: 2024-01-19T19:23:39Z
-modDatetime: 2024-01-19T19:23:39Z
+pubDatetime: 2024-01-19T19:23:39+08:00
+modDatetime: 2024-01-19T19:23:39+08:00
 title: Windows、Linux双系统时间同步设置
 slug: Dual-System-Time-Sync
 featured: false

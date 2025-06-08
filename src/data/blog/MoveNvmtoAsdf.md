@@ -1,7 +1,7 @@
 ---
 auther: DJLHB
-pubDatetime: 2025-06-08T08:31:33Z
-modDatetime: 2025-06-08T08:31:33Z
+pubDatetime: 2025-06-08T08:31:33+08:00
+modDatetime: 2025-06-08T08:31:33+08:00
 title: 包管理器：从nvm迁移到asdf
 slug: Move-nvm-to-asdf
 featured: false

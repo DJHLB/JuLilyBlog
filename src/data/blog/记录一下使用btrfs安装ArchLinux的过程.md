@@ -1,7 +1,7 @@
 ---
 auther: DJLHB
-pubDatetime: 2024-05-25T19:26:54Z
-modDatetime: 2024-05-25T19:26:54Z
+pubDatetime: 2024-05-25T19:26:54+08:00
+modDatetime: 2024-05-25T19:26:54+08:00
 title: 记录一下使用btrfs安装ArchLinux的过程
 slug: XiaoXin-Pro-13-Archlinux-Install-Btrfs
 featured: false

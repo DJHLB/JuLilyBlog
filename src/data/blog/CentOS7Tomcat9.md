@@ -1,7 +1,7 @@
 ---
 auther: DJLHB
-pubDatetime: 2021-07-01T11:19:43Z
-modDatetime: 2021-07-01T11:19:43Z
+pubDatetime: 2021-07-01T11:19:43+08:00
+modDatetime: 2021-07-01T11:19:43+08:00
 title: CentOS7安装配置Tomcat9
 slug: CentOS7-Tomcat9-install-and-config
 featured: false

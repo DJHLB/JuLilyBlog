@@ -1,7 +1,7 @@
 ---
 auther: DJLHB
-pubDatetime: 2022-06-22T11:51:42Z
-modDatetime: 2022-06-22T11:51:42Z
+pubDatetime: 2022-06-22T11:51:42+08:00
+modDatetime: 2022-06-22T11:51:42+08:00
 title: 联想小新13-pro-2019iml-安装Archlinux后没有声音修复记录
 slug: XiaoXin-Pro-13-Archlinux-Fixed
 featured: false
